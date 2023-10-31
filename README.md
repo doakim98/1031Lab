@@ -1,2 +1,2 @@
 Hello World!!!
-Hi Hello~
+Hi Hello!
